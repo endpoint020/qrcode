@@ -1,2 +1,2 @@
-# malegebi
-111
+# qrcode
+get qr data from qr-img
